@@ -1,0 +1,14 @@
+---
+title: "HelloWorld"
+author: "You"
+date: "14/06/2020"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+## This is a markdown file
+
+```{r}
+print('Hello World!')
+```
